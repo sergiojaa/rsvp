@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import './App.css'
-ssssssssssss
+
 function App() {
   const [input ,setInput] = useState('')
   const [submitted, setSubmitted] = useState(false)
