@@ -10,7 +10,7 @@ function App() {
     console.log(e.target.value)
     
   }
-sssssssss
+
   const clicked = (e)=>{
     e.preventDefault()
     setSubmitted(true)
