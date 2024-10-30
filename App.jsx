@@ -15,8 +15,8 @@ function App() {
     e.preventDefault()
     setSubmitted(true)
     
-  }
-
+  }https://github.com/sergiojaa/rsvp/edit/main/App.jsx#L19C0
+zzz
  console.log(submitted)
   return (
     <>
