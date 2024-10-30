@@ -16,7 +16,7 @@ function App() {
     setSubmitted(true)
     
   }https://github.com/sergiojaa/rsvp/edit/main/App.jsx#L19C0
-zzzzzzzzzz
+zzzzzzzzzzzzz
  console.log(submitted)
   return (
     <>
